@@ -49,11 +49,31 @@ const george = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap&theme=dark" alt="web"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" alt="frontend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,git,figma,qt&theme=dark" alt="languages and tools"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,java,py,cpp&theme=dark" alt="backend and languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,vscode,idea,azure&theme=dark" alt="data tools cloud"/>
 
 </div>
+
+<br/>
+
+**Frontend** &nbsp;·&nbsp; React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind · Bootstrap · Responsive Design
+
+**Backend** &nbsp;·&nbsp; ASP.NET Core · C# · Node.js *(basic)*
+
+**APIs & Data** &nbsp;·&nbsp; REST APIs · MongoDB · SQL Server · PostgreSQL
+
+**Languages** &nbsp;·&nbsp; JavaScript · Java · Python (NumPy / SciPy) · SQL · C++
+
+**Tools** &nbsp;·&nbsp; Git · GitHub · GitHub Copilot · VS Code · IntelliJ · Docker *(basic)*
+
+**Cloud** &nbsp;·&nbsp; Microsoft Azure (VMs, Networking) · Intune · Active Directory
+
+**Automation & APIs** &nbsp;·&nbsp; n8n · Gmail API · Groq (LLM inference) · OAuth2 · Telegram Bot API
+
+<sub>📘 *TypeScript — actively learning, will add once used in a project.*</sub>
 
 ---
 

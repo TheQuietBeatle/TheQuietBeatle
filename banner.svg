@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0080FF"/>
+      <stop offset="0.5" stop-color="#00B4D8"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+      .name { font-size: 56px; font-weight: 700; letter-spacing: 1px; }
+      .sub { font-size: 20px; font-weight: 500; opacity: 0.92; }
+      .fade { opacity: 0; animation: fade 1.2s ease-out 0.2s forwards; }
+      .fade2 { opacity: 0; animation: fade 1.2s ease-out 0.6s forwards; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0 H1200 V160 C1050 205 900 140 750 168 C600 196 450 215 300 180 C180 152 80 170 0 190 Z"/>
+  <path fill="#ffffff" opacity="0.08" d="M0 0 H1200 V120 C1000 170 820 95 620 135 C420 175 220 150 0 165 Z"/>
+  <text class="t name fade" x="600" y="92" text-anchor="middle">George Sameh</text>
+  <text class="t sub fade2" x="600" y="132" text-anchor="middle">Computer Engineering @ GUC  •  Frontend &amp; AI Automation</text>
+</svg>
